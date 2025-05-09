@@ -1,0 +1,12 @@
+html{
+    width:1100px;
+}
+body{
+    width:1000px;
+    height:840px;
+    display:flex;
+   
+    align-items: center;
+    flex-direction: column;
+}
+
